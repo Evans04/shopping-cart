@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./main.css" rel="stylesheet" />
+    <title>shopping cart</title>
+  </head>
+  <body>
+    <!--Navigation bar-->
+    <nav>
+      <a href="">Register </a>
+      <a href="">Login</a>
+      <a href="">Cart </a>
+    </nav>
+    <!--Hero section-->
+    <>
+      <h1>Welcome to our store</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aspernatur odit ducimus pariatur voluptatem, rem earum facilis nostrum qui nihil voluptas! Ut in consequuntur dicta eius architecto laborum voluptatem maiores!</p>
+    <button> View products</button>
+    </section>
+    <!--Main section-->
+    <main>
+    <h2>Featured products</h2>
+    <!--All products -->
+    <div>
+      <!--product 1 -->
+      <div>
+        <h3>product 1</h3>
+        <img src="./images/product 1.jpg" alt="product 1"width="300"height="300"/>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque eveniet iure nisi dolores? Dignissimos ducimus placeat dolorum praesentium, provident, quia odit rerum dolor omnis ab cumque voluptas. Perferendis, ratione sint.
+        </p>
+        <button>Add new product</button>
+        <button>View product</button>
+        <button>Delete product</button>
+        <button>Edit product</button>
+      </div>
+      <!--Product 2 -->
+      <div>
+        <h3>product 2</h3>
+        <img src="./images/product 2.jpg" alt="product 2"width="300" height="300">
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo atque voluptatum facere aperiam, molestiae beatae delectus minus vel soluta repellat, voluptate autem quod ipsum, perferendis tenetur quidem dignissimos nemo voluptatem!
+        </p>
+        <button>Add new product</button>
+        <button>View product</button>
+        <button>Delete product</button>
+        <button>Edit product</button>
+
+      </div>
+      <!--product 3-->
+      <div>
+        <h3>product 3</h3>
+        <img src="./images/product 3.jpg" alt="product 3" height="300">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt id quis ipsam soluta eligendi officiis consequuntur ea earum eaque placeat aut optio saepe architecto, iusto aliquam vero. Dolor, ducimus quos.
+        </p>
+        <button>Add new product</button>
+        <button>View product</button>
+        <button>Delete product</button>
+        <button>Edit product</button>
+
+      </div>
+      <!--cart-->
+      <div>
+        <h4>cart</h4>
+        <button>Add product</button>
+        <button>Edit quantity</button>
+        <button>Remove product</button>
+      </div>
+    </div>
+    </main>
+    <!--Footer-->
+    <footer>
+      <ul>
+        <li><a href="">Instagram</a></li>
+        <li><a href="">facebook</a></li>
+        <li><a href="">youtube</a></li>
+        <li><a href="">LinkedIn</a></li>
+      </ul>
+      <p>Shopping cart &copy; 2022</p>
+    </footer>
+  </body>
+</html>
